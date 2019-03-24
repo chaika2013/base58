@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <limits.h>
 
 #include "base58.h"
